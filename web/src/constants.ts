@@ -1,0 +1,3 @@
+export const MINECRAFT_DATA_VERSION_1_20_4 = 3700
+export const SCHEMATIC_VERSION_V6 = 6
+export const SCHEMATIC_VERSION_V7 = 7

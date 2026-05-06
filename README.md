@@ -13,3 +13,13 @@ Compiling
 * Open a command prompt/terminal to the repository directory
 * run 'gradlew build'
 * The built jar file will be in build/libs/
+
+Web downgrade tool
+==================
+This repository includes a small browser-based tool for downgrading Litematica v7 schematics to v6 (Minecraft 1.20.4).
+
+From the repository root:
+* `cd web`
+* `npm install`
+* `npm run dev`
+* Open the local URL printed by Vite and upload a `.litematic` file
